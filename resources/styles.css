@@ -1,0 +1,92 @@
+/* styles.css */
+.box-light{
+    -fx-padding: 10;
+    -fx-border-color: #385CA9;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    -fx-background-color: #AAC2F4;
+    -fx-text-fill: #000000;
+}
+
+.text-area-light {
+    -fx-border-color: #AAC2F4;
+    -fx-background-color: #D2DFFA;
+}
+
+.button-light {
+    -fx-border-color: #385CA9;
+    -fx-background-color: #dbe7fe;
+    -fx-text-fill: #505050;
+}
+
+.text-field-light {
+    -fx-border-color: #385CA9;
+    -fx-background-color: #DBE7FE;
+    -fx-text-fill: #000000;
+}
+
+.white {
+    -fx-background-color: #D2DFFA;
+}
+
+.box-dark{
+    -fx-padding: 10;
+    -fx-border-color: #385CA9;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    -fx-background-color: #232323;
+    -fx-text-fill: #FFFFFF;
+}
+
+.button-dark {
+    -fx-border-color: #385CA9;
+    -fx-background-color: #232323;
+    -fx-text-fill: #FFFFFF;
+}
+
+.text-area-dark {
+    -fx-border-color: #385CA9;
+    -fx-background-color: #232323;
+}
+
+.text-field-dark {
+    -fx-border-color: #385CA9;
+    -fx-background-color: #232323;
+    -fx-text-fill: #FFFFFF;
+}
+
+.black {
+    -fx-background-color: #000000;
+}
+
+
+.button {
+    -fx-border-color: #385CA9;
+    -fx-background-color: #232323;
+    -fx-text-fill: #FFFFFF;
+}
+
+VBox, HBox{
+    -fx-padding: 10;
+    -fx-border-color: #385CA9;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    -fx-background-color: #232323;
+    -fx-text-fill: #FFFFFF;
+}
+
+.scroll-pane {
+    -fx-background-color: #000000;
+}
+
+.text-area {
+    -fx-border-color: #385CA9;
+    -fx-background-color: #232323;
+}
+
+.root {
+    -fx-background-color: #000000;
+}
